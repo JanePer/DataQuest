@@ -1,2 +1,2 @@
 # DataQuest
-Guided Projects &amp; Tutorials
+Guided Projects and Tutorials I trained on to code in Python.
